@@ -1,2 +1,2 @@
 # junk
-  NOTHING SPECIAL, JUST A ROCK-PAPER-SCISSORS GAME
+  Practice RPS game through C++
